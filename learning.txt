@@ -1,0 +1,4 @@
+what is web vitals 
+Web Vitals is a set of metrics that measure the user experience of a website. It was introduced
+by Google in 2020 as a way to measure the performance and user experience of a website.
+The metrics include:
