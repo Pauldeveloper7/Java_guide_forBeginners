@@ -1,0 +1,21 @@
+Download JDK From Internet 
+1)Search JDK ON GOOGLE 
+Or visit this website at https://www.oracle.com/in/java/technologies/downloads/
+2) Download according to your system , window ,macos and linux .
+3) Select x64 MSI Installer and download it . 
+4) After downloading , open the Jdk , It will ask you some configration ask click ok and nexr and click close when it finish .
+
+
+##SETTING UP THE ENVIRONMENT VARIABLE ##
+5) Search  environment variable  and edit the environment variable will pop in screen just click on it . 
+6) A dialog box will appear in front of you . Click on the environment variable button . 
+7) In system variable , add a new variable in system variable give it name as 'JAVA_HOME' and paste the path of java , which will be in your c drive > Program files > java > jdk .
+8)Now copy the path and paste it in JAVA_HOME variable . 
+9) Find path variable in system variable , click on it , list of path will pop in front of you just add a new path which will be in your c drive > Program files >java > jdk> bin .
+10) Open the command prompt in your system and search 'java --version ' if you got a version of java it means you succesfully installed it . 
+
+How to run java profram ?
+1)Open visual studio code , and  create a new file with extension .java and download two extension in java 'Extension pack for java '  and code Runner . 
+2) Open the terminal in your system go the specific folder and type 'javac filename.java' .
+3) Second command will be 'java filename.java' .
+4) and the program should execute . 

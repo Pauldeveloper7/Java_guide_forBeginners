@@ -1,0 +1,45 @@
+WHAT IS JAVA ?   
+Java is a multiplatform, object-oriented programming language and computing platform that's used to create a variety of applications. It's been a popular choice for developers for over 20 years and powers a large portion of the digital world today. Java is considered a good first language for learning programming fundamentals because it's easy to learn and understand 
+
+JAVA IS DEVELOPED BY ?
+Java was developed by james gosling and his collegues at sun microsystems in 1990s .
+
+HOW JVM works ?
+Java applications are intended to be compiled to bytecode that run on any java virtual machine .
+
+HISTORY OF JAVA 
+The idea of java was conceived in january 1991 by james gosling with other collegues to discuss stealth project funded by sun microsystems. 
+
+Project started due to profound impact of microprocessors in intelligent consumer-electric devices .
+James Gosling began with c++ because of complex features. c++ was inappropriately and decided to build his simplified computer language which is named as 'oak' . James choose this name by inspiring from an oak tree of gosling office window in 1992 September .
+In november 1992 , green project team proposed their technology to time  warner as an operating system for setup boxes and video on demand . Tim-warner choose to grant a contract to another rival company . 
+
+So by end of 1993 , sun decided to drop the project . By that time , internet was gaining momentum and first mosoic web browser was released. project team felt that software language they had developed might be perfect for web .
+In mid 1994 , Oak was used to new browser 'Web Runner' renamed as 'HOT JAVA' later renamed to java . 
+Sun formally announced java & HOT JAVA at major conference sun world in 1993. 
+
+Soon after NETSCAPE INC. announced it would incorporate java support in their browser later , internet explorer  incorporated  java support in their browser later , internet explorer incorporated and Today Java not only infuse internet , but invisible force behind applications & devices . 
+
+FEATURES OF JAVA 
+1) Simple and easy 
+2) Fully Object-oriented programming language
+3) Robust programming
+4) Secure 
+5) Architecture Neutral 
+6) Portable 
+7) Compiled and Interpreted 
+8) High performance
+9) Multi-threaded 
+10) Dynamic & Extensible 
+
+JAVA AND INTERNET 
+Java is a first programming language designed from the group up with networking in mind .
+The java program that run on internet are known as applets which user download and run it own machine .
+
+JAVA & WWW 
+The WWW  is a distributed system of interlinked hypertext document accessed via internet . 
+
+JAVA ENVIRONMENT 
+Java is a actually more than a programming language , it is also a programming environment that includes programming tools as the part of the system known as Java Development Kit (JDK) and rich collection of existing classes and method which are part of (JSL) JAVA STANDARD LIBRARY also known as API . 
+
+ 
