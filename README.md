@@ -6,9 +6,10 @@ Welcome to the Java for Beginners repository! This repository is designed to hel
 ## Contents
 
 1. [Introduction to Java](#introduction-to-java)
-2. [Data Types in Java](#data-types-in-java)
-3. [Operators in Java](#operators-in-java)
-4. [Practice Tasks](#practice-tasks)
+2. [Downloading  Java](#Download-java )
+3. [Data Types in Java](#data-types-in-java)
+4. [Operators in Java](#operators-in-java)
+5. [Practice Tasks](#practice-tasks)
 
 ## Introduction to Java
 
@@ -19,8 +20,13 @@ The `intro.java` file provides an introduction to Java, including its history, f
   - Overview of Java
   - History of Java
   - Features of Java
-  - Setting up Java Development Kit (JDK)
-  - Writing your first Java program
+    
+## Download
+The download.java file provides a brief guide about how to download java jdk and setup in your system 
+- **File** `download.java`
+- **Topics Covered**
+   - Setting up Java Development Kit (JDK)
+   - Writing your first java Program 
 
 ## Data Types in Java
 
