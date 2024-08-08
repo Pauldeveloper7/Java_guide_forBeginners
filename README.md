@@ -1,7 +1,3 @@
-Sure, here's a README for your GitHub repository:
-
----
-
 # Java for Beginners
 ![Alt text](https://github.com/user-attachments/assets/ec0ac9f2-35e3-4980-9625-d258c5e560a0)
 
