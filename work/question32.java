@@ -1,0 +1,1 @@
+// 4) Suppose there is a MYSQL  database to store data about online applicants of a recruitment drive . Write down statement to connect a JAVA  program to the MYSQL database and add , manipulate data . 

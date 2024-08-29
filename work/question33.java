@@ -1,0 +1,1 @@
+//  Display a text on the console.
