@@ -1,7 +1,7 @@
 // 9) Performs various operations applicable on two or more string . question --37
 import java.util.Scanner ;
 
-public class Question37{
+public class Stringopt{
      public static void main(String[] args) {
 
          String quote  = new String("Life is a journey not a destination so be water my friend , just go with flow ");

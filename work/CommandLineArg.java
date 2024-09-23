@@ -1,6 +1,6 @@
 // 7) Illustrate the use of command line argument. question --35
 import java.util.Scanner ;
-public class Question35{
+public class CommandLineArg{
   public static void main(String[] args){
     Scanner inputdata = new Scanner(System.in);
     int firstnum , secondnum ;

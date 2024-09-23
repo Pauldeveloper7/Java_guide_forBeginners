@@ -1,7 +1,7 @@
 // 10) Shows the use of switch statement in terms of conditional branching . question -- 38
 import java.util.Scanner; 
 
-class Question38 {
+class Switch {
     public static void main(String[] args) {
         int a, b, choice;
         System.out.println("Welcome to this program");
@@ -17,16 +17,16 @@ class Question38 {
         Program programref = new Program();
         switch (choice) {
             case 1:
-                programref.sum(a, b);
+                programref.sum(a,b);
                 break;
             case 2:
-                programref.sub(a, b);
+                programref.sub(a,b);
                 break;
             case 3:
-                programref.multiply(a, b);
+                programref.multiply(a,b);
                 break;
             case 4:
-                programref.divide(a, b);
+                programref.divide(a,b);
                 break;
             default:
                 System.out.println("Invalid choice");
