@@ -1,5 +1,4 @@
 import java.util.Scanner; 
-
 class HelloWorld {
     public static void main(String[] args) {
         int a, b, choice;
@@ -12,8 +11,8 @@ class HelloWorld {
         System.out.println("Enter value of two intergers to perform action");
         a = input.nextInt();
         b = input.nextInt();
-        
-        Program programref = new Program();
+        // object declaration 
+        Program programref = new Program(12 , 2);
         switch (choice) {
             case 1:
                 programref.sum(a, b);
@@ -31,12 +30,14 @@ class HelloWorld {
                 System.out.println("Invalid choice");
         }
         System.out.println("\n Do you want to re-run this program ?");
-        ans = input.nextChar()
+        ans = input.nextChar();
         }
     }
 }
 
 class Program {
+    Program(int a, int b){
+    }
     public int sum(int a, int b) {
         int sum = a + b;
         System.out.println("The sum of two numbers is " + sum);

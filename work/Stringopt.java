@@ -1,11 +1,10 @@
-// 9) Performs various operations applicable on two or more string . question --37
+// 4) Performs various operations applicable on two or more string . question --37
 import java.util.Scanner ;
 
 public class Stringopt{
      public static void main(String[] args) {
-
-         String quote  = new String("Life is a journey not a destination so be water my friend , just go with flow ");
-         System.out.println("The quote of the day is "+ quote);
+       String quote  = new String("Name : Komal paul , Roll Number : 226902 \n Life is a journey not a destination so be water my friend , just go with flow ");
+       System.out.println("\nThe quote of the day is "+ quote);
          // a function to get the length of the string 
          int stringlength = quote.length();
          System.out.println("The length of the string is "+ stringlength);

@@ -1,7 +1,7 @@
-// 11) Explain the creation and use of a user defined class. question -- 39 
+// 6) Explain the creation and use of a user defined class. question -- 39 
 class Usum {
     public static void main(String[] args) {
-        System.out.println("Welcome to the code ");
+        System.out.println("Name :Komal Paul ,Roll Number : 226902  ");
        Sum  programref = new Sum();
         System.out.println(programref.add());
     }
